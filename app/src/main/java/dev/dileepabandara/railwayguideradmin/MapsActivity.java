@@ -50,6 +50,7 @@ import java.util.Locale;
 
 import io.paperdb.Paper;
 
+@SuppressWarnings("deprecation")
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
